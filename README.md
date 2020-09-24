@@ -3,7 +3,7 @@
 * https://github.com/datenhahn
 
 
-I am making a chat ai in kotlin a java framework.
+I am making a chat ai in python.
 
 Tell me any cool features that I should add
 
